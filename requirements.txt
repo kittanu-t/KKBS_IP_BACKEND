@@ -6,4 +6,5 @@ scikit-learn==1.6.1
 optuna 
 optuna-integration[sklearn]
 pillow==12.1.1
-opencv-python==4.13.0.92
+opencv-python-headless==4.13.0.92
+gunicorn
