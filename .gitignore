@@ -1,1 +1,5 @@
 .venv/
+knn_model/
+obesity_model/
+app_knn.py
+app_mix.py

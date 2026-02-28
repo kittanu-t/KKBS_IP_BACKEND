@@ -1,10 +1,9 @@
 flask
 flask-cors
-numpy 
-joblib 
+numpy
+joblib
 scikit-learn==1.6.1
-optuna 
-optuna-integration[sklearn]
 pillow==12.1.1
 opencv-python-headless==4.13.0.92
 gunicorn
+pandas
